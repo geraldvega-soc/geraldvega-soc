@@ -12,7 +12,7 @@ Soy titulado como **Técnico Profesional en Ciberseguridad** con experiencia pr�
 - 🔵 Enfoque en **Blue Team**: monitoreo, detección y respuesta a incidentes
 - 🏢 Experiencia práctica como **Analista SOC** (práctica laboral)
 - 🔬 Experiencia en laboratorios: escaneo de redes, reconocimiento, análisis de vulnerabilidades
-- 📍 Disponible para trabajar en Chile
+- 💼 Disponible para oportunidades como Analista SOC Jr. en Chile (remoto o presencial)
 
 ---
 
@@ -37,7 +37,7 @@ Proyecto de ciberseguridad orientado a la protección de datos en entorno corpor
 
 ### 🔬[Laboratorios — Nmap & Reconocimiento](./03-laboratorios/)  
 Laboratorios de reconocimiento y escaneo de red utilizando Nmap, orientados a la enumeración de puertos y servicios, identificación de superficies de ataque y análisis técnico de resultados con evidencias.
----
+
 
 ## # 📈 Actualmente
 
@@ -49,8 +49,8 @@ Laboratorios de reconocimiento y escaneo de red utilizando Nmap, orientados a la
 
 ## 📫 Contacto
 
-[![LinkedIn](www.linkedin.com/in/gerald-vega-soto)
-[![Email](geraldvega714@gmail.com)
+- 🔗 LinkedIn: https://www.linkedin.com/in/gerald-vega-soto  
+- 📧 Email: geraldvega714@gmail.com
 
 ---
 
