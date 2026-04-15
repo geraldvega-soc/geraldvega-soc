@@ -1,59 +1,58 @@
 # Hola, soy Gerald Vega Soto 👋
 
-### Analista de Ciberseguridad en formación · Blue Team / SOC · 📍 Chile
+🔐 Analista de Ciberseguridad en formación · Blue Team / SOC  
+📍 Chile  
+💼 Disponible para oportunidades como Analista SOC Jr. (remoto o presencial)
 
-Soy titulado como **Técnico Profesional en Ciberseguridad** con experiencia práctica en entornos reales y de laboratorio. Durante mi práctica laboral trabaje como analista SOC, donde utilicé **Wazuh SIEM** para monitoreo de eventos, detección de amenazas y respuesta a incidentes. Me apasiona el Blue Team: entender cómo funcionan los ataques para poder detectarlos y contenerlos.
+Soy titulado como Técnico Profesional en Ciberseguridad, con experiencia práctica en entornos reales y de laboratorio. Durante mi práctica laboral me desempeñé como Analista SOC, utilizando Wazuh SIEM para el monitoreo de eventos, detección de amenazas y respuesta a incidentes.
+
+Me apasiona el Blue Team: comprender cómo funcionan los ataques para poder detectarlos, analizarlos y contenerlos de forma efectiva.
 
 ---
 
 ## 🛡️ Sobre mí
 
-- 🎓 Egresado como **Técnico Profesional en Ciberseguridad**
-- 🔵 Enfoque en **Blue Team**: monitoreo, detección y respuesta a incidentes
-- 🏢 Experiencia práctica como **Analista SOC** (práctica laboral)
-- 🔬 Experiencia en laboratorios: escaneo de redes, reconocimiento, análisis de vulnerabilidades
-- 💼 Disponible para oportunidades como Analista SOC Jr. en Chile (remoto o presencial)
+- 🎓 Titulado como Técnico Profesional en Ciberseguridad  
+- 🔵 Enfoque en Blue Team: monitoreo, detección y respuesta a incidentes  
+- 🏢 Experiencia práctica como Analista SOC (práctica laboral)  
+- 🔬 Experiencia en laboratorio: escaneo de redes, reconocimiento y análisis de vulnerabilidades  
+- 💼 Disponible para oportunidades en ciberseguridad (SOC Jr.)  
 
 ---
 
 ## 🧰 Herramientas y tecnologías
 
-| Área | Herramientas |
-|---|---|
-| SIEM | Wazuh |
-| Reconocimiento / Escaneo | Nmap |
-| Sistemas operativos | Linux, Windows Server |
-| Documentación | Informes de incidentes, bitácoras SOC |
+| Área                      | Herramientas |
+|---------------------------|-------------|
+| SIEM                      | Wazuh       |
+| Reconocimiento / Escaneo  | Nmap        |
+| Sistemas Operativos       | Linux, Windows Server |
+| Documentación             | Informes de incidentes, bitácoras SOC |
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos
 
-### 🔴 [Reporte de Incidente Real — Wazuh SIEM](./02-practica-laboral/reporte-incidente/)
-Documentación de un incidente de seguridad detectado y gestionado durante mi práctica laboral como analista SOC. Incluye análisis de alertas, línea de tiempo y medidas de contención.
+### 🔴 Informe de Incidente — Wazuh SIEM
+Documentación de un incidente de seguridad detectado y gestionado durante mi práctica laboral como Analista SOC. Incluye análisis de alertas, línea de tiempo del incidente y medidas de contención.
 
-### 🎓 [Proyecto de Título](./01-proyecto-titulo/)  
-Proyecto de ciberseguridad orientado a la protección de datos en entorno corporativo (caso de estudio basado en Nestlé), incluyendo análisis de riesgos, detección y evaluación de vulnerabilidades, implementación de controles de seguridad y elaboración de documentación técnica.
+### 🎓 Proyecto de Título
+Proyecto de ciberseguridad enfocado en la protección de datos en un entorno corporativo (caso de estudio basado en Nestlé). Incluye análisis de riesgos, detección y evaluación de vulnerabilidades, implementación de controles de seguridad y documentación técnica.
 
-### 🔬[Laboratorios — Nmap & Reconocimiento](./03-laboratorios/)  
-Laboratorios de reconocimiento y escaneo de red utilizando Nmap, orientados a la enumeración de puertos y servicios, identificación de superficies de ataque y análisis técnico de resultados con evidencias.
+### 🔬 Laboratorios — Nmap & Reconocimiento
+Laboratorios de reconocimiento y escaneo de red utilizando Nmap, enfocados en la enumeración de puertos y servicios, identificación de superficies de ataque y análisis técnico con evidencias.
 
+---
 
-## # 📈 Actualmente
+## 📈 Actualmente
 
-- 🌱 Profundizando en análisis de logs y correlación de eventos en entornos SIEM (Wazuh)
-- 📚 Preparación para certificación en ciberseguridad orientada a Blue Team
-- 🎯 Disponible para oportunidades como Analista SOC Jr.
+- 🌱 Profundizando en análisis de logs y correlación de eventos en SIEM (Wazuh)  
+- 📚 Preparándome para certificaciones de ciberseguridad orientadas a Blue Team  
+- 🎯 Buscando mi primera oportunidad laboral como Analista SOC Jr.  
 
 ---
 
 ## 📫 Contacto
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/gerald-vega-soto  
-- 📧 Email: geraldvega714@gmail.com
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geraldvega-soc&color=blue&style=flat" alt="visitas al perfil"/>
-</p>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gerald-vega-soto)  
+- 📧 [Email](mailto:geraldvega714@gmail.com)
